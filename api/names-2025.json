@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Jude Bellingham",
+    "number": 5,
+    "position": "MF",
+    "nationality": "England",
+    "birthdate": "2003-06-29",
+    "joined": "2023-07-01",
+    "contract_end": "2029-06-30"
+  },
+  {
+    "id": 2,
+    "name": "Vinícius Júnior",
+    "number": 7,
+    "position": "FW",
+    "nationality": "Brazil",
+    "birthdate": "2000-07-12",
+    "joined": "2018-07-01",
+    "contract_end": "2027-06-30"
+  }
+]
